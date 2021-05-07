@@ -6,5 +6,5 @@ API endpoint to retrieve all the text files in that particular folder - https://
 
 github repository url - https://github.com/srinatsrinat/nodejs-filesystem
 
-last committed hash ID - 4b36fe91ba71506e1e7a7c9ce56ed0b3727deb9b
+last committed hash ID - ffe5372be0061c6c4c4a86e7ddb80a4008ba20e5
 
