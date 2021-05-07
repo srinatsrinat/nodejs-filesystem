@@ -1,0 +1,10 @@
+heroku deployment link - https://nodejs-filesystempractice.herokuapp.com/
+
+API endpoint which will create a textfile in a particular folder - https://nodejs-filesystempractice.herokuapp.com/
+
+API endpoint to retrieve all the text files in that particular folder - https://nodejs-filesystempractice.herokuapp.com/textfiles
+
+github repository url - https://github.com/srinatsrinat/nodejs-filesystem
+
+last committed hash ID - 4b36fe91ba71506e1e7a7c9ce56ed0b3727deb9b
+
